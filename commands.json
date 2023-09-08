@@ -1,0 +1,4 @@
+{
+  "commands": ["echo Hello", "echo World"]
+}
+
