@@ -1,7 +1,7 @@
 # machogen
 
-This project allows you to dynamically compile a mach-o binary that performance a sequence of commands.
-The purpose of this project is to allow safe replication of behavior for validating detection logic without
+This project allows you to dynamically compile a mach-o binary that performs a sequence of user-defined commands.
+The purpose of this project is to allow safe replication of malicious behavior for validating detection logic without
 needing to execute malware directly.
 
 ## Usage
